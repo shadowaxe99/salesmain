@@ -1,0 +1,3 @@
+I'm sorry for the confusion, but .h5 files are binary files used to save the weights of a trained model in TensorFlow. They don't contain human-readable code. Instead, they contain the learned parameters of a machine learning model. 
+
+If you want to see the code used to train the model and save it as a .h5 file, that would be in a Python script, likely "salesman_ai_agent/scripts/model_training.py".
